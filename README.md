@@ -12,5 +12,5 @@
  The University Management System undertaken as a project is based on relevant
  technologies. This project has been developed to carry out the processes easily and quickly, which
  is impossible with the manual systems, which are overcome by this software. This project is
- developed using C++ language and executed in codeblocks and files at the s backend.
+ developed using Python language and executed in codeblocks and files at the s backend.
 
